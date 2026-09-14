@@ -1,2 +1,2 @@
 # Perbandingan-akurasi-algoritma-naive-bayes-dan-support-verctor-machine-dalam-analisis-sentimen-
-Perbandingan akurasi algoritma naive bayes dan support verctor machine dalam analisis sentimen ulasan pengguna pada aplikasi shoppe
+File ini menggunakan google colab dengan data 600 ulasan pengguna
